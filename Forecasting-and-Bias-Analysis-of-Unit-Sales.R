@@ -1,4 +1,3 @@
-# msma Dawei Jia
 setwd("/Users/jiadawei/Desktop/Market Analytics")
 DB <- read.csv("Homework 3 Student Data.csv")
 install.packages('forecast')
